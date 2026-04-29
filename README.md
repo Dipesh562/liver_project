@@ -24,13 +24,12 @@ Indian Liver Patient Dataset (ILPD)
 ## Project Files
 | File | Description |
 |------|-------------|
-| liver_analysis_student.xlsx | Excel analysis with pivot tables and charts |
+| liver_analysis(excel).xlsx | Excel analysis with pivot tables and charts |
 | cleaned_liver_dataset__1_.csv | Cleaned dataset used for analysis |
 | miniproject.twb | Tableau workbook with interactive dashboard |
 | liver_project_report.docx | Full project report |
 
 ## Live Tableau Dashboard
-[Click here to view the interactive dashboard](paste your tableau public link here)
+[[Click here to view the interactive dashboard]
+(https://public.tableau.com/app/profile/dipesh.patil8376/viz/miniproject02/Dashboard1?publish=yes)
 
-## Team
-- Dipesh Patil – B25CE1180
